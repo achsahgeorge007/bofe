@@ -1984,7 +1984,18 @@ section {
   color: #fbfbfc;
   font-size: 14px;
 }
-
+.service-box {
+  background-color: #f8feff;
+  padding: 2.5rem 1.3rem;
+  border-radius: 1rem;
+  margin-bottom: 3rem;
+  /* height: 225px; */
+  padding: 5%
+}
+.images-a {
+  height: 150px;
+  width: 230px;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
@@ -1996,7 +2007,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #515d6a;
+  background: #292929;
   padding: 60px 0 30px 0;
 }
 
